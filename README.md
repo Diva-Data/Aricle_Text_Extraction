@@ -53,3 +53,6 @@ To calculate Personal Pronouns mentioned in the text, we use regex to find the c
 ### 13.	Average Word Length
 Average Word Length is calculated by the formula:<p>
 Sum of the total number of characters in each word/Total number of words
+
+## Sentiment Analysis Machine Learning Model
+The above parameters are used for modelling, but ML is not included in the current CodeBook.
